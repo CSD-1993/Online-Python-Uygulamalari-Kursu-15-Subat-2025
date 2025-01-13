@@ -1,7 +1,7 @@
-# Online-Python-Uygulamalari-Kursu-18-Ocak-2025
+# Online-Python-Uygulamalari-Kursu-15-Şubat-2025
 
 + Kurs __[C ve Sistem Programcıları Derneği](http://www.csystem.org/)__ tarafından __"Sistem Bilgisayar"__ işbirliği ile düzenlenmektedir.
-+ Kurs __18 Ocak 2025__ tarihinde başlayacaktır.
++ Kurs __15 Şubat 2025__ tarihinde başlayacaktır.
 + Kurs eğitmeni __Kaan Aslan__'dır.
 + __Kurs gerçek zamanlıdır.__ Önceden kayıt edilmiş derslerin izlenmesi biçiminde değildir. Öğrenciler ders sırasında eğitmene soru sorabilirler.
 + Toplam kurs süresi __230__ saattir. 
